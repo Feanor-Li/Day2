@@ -7,7 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Pingxuan Li (Lily)",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "simple-statistics": "^7.0.5"
+  }
 }
-
-
